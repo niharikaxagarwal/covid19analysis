@@ -1,0 +1,1 @@
+Utilized the requests library to query the UK government’s COVID data API on cases, deaths, and vaccinations, and calculated 7-day rolling averages for new daily cases and deaths, enhancing trend analysis with datetime manipulation skills. Visualised insights through matplotlib.
